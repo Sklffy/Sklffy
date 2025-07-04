@@ -12,19 +12,19 @@
 <a>𝕀'𝕞 𝕖𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕝𝕪 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕒𝕓𝕠𝕦𝕥 𝕣𝕠𝕝𝕖𝕤 𝕚𝕟 ℂ𝕪𝕓𝕖𝕣𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘, 𝕋𝕙𝕣𝕖𝕒𝕥 ℍ𝕦𝕟𝕥𝕚𝕟𝕘, 𝕒𝕟𝕕 𝕀𝕟𝕗𝕣𝕒𝕤𝕥𝕣𝕦𝕔𝕥𝕦𝕣𝕖 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝕓𝕦𝕥 𝕀’𝕞 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕒𝕟𝕪 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕪 𝕚𝕟 ℂ𝕪𝕓𝕖𝕣𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪, 𝕀𝕋, 𝕠𝕣 𝔻𝕖𝕧𝕊𝕖𝕔𝕆𝕡𝕤 𝕒𝕔𝕣𝕠𝕤𝕤 𝕥𝕙𝕖 𝕌.𝕊.</a>
 
 
-<h2>🛠️ Personal Projects</h2>
+<h2>┗━━━━━━⊱ 🛠️ 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ⊰━━━━━━┛</h2>
 
 - <b>Portfolio Website (HTML/CSS + Canvas JS)</b>  
   - [jdgeisler.com](https://jdgeisler.com)
 - <b>ATLANTIS Scoreboard (C++ | TOML | Web UI)</b>  
   - [GitHub Repo](https://github.com/Sklffy/Scoring-Engine)
 
-<h2>🏆 Cybersecurity Competitions</h2>
+<h2>┗━━━━━━⊱ 🏆 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒐𝒏𝒔 ⊰━━━━━━┛</h2>
 
 - <b>Participant - NCAE Cyber Games 2025</b>  
   - [NCAE Cyber Games](https://www.ncaecybergames.org/)
 
-<h2>💻 Technical Skills</h2>
+<h2>┗━━━━━━⊱ 💻 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒌𝒊𝒍𝒍𝒔 ⊰━━━━━━┛</h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
@@ -35,12 +35,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-<h2>🎓 Certifications</h2>
+<h2>┗━━━━━━⊱ 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 ⊰━━━━━━┛</h2>
 
 - <b>CompTIA Security+</b> (in progress)  
 - <b>TryHackMe & Hack</b> (ongoing)
 
-<h2>🔗 Connect with Me</h2>
+<h2>┗━━━━━━⊱ 🔗 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 ⊰━━━━━━┛</h2>
 
 [linkedin]: https://linkedin.com/in/jdgeisler
 
