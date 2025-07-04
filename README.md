@@ -10,7 +10,7 @@
 <a>I'm especially passionate about roles in <strong>Cybersecurity Engineering</strong>, <strong>Threat Hunting</strong>, and <strong>Infrastructure Security</strong>—but I’m open to any opportunity in <strong>Cybersecurity</strong>, <strong>IT</strong>, or <strong>DevSecOps</strong> across the U.S.</a>
 
 
-<h2>👨‍💻 Personal Projects</h2>
+<h2>🛠️ Personal Projects</h2>
 
 - <b>Portfolio Website (HTML/CSS + Canvas JS)</b>  
   - [jdgeisler.com](https://jdgeisler.com)
@@ -22,7 +22,7 @@
 - <b>Participant - NCAE Cyber Games 2025</b>  
   - [NCAE Cyber Games](https://www.ncaecybergames.org/)
 
-<h2>🛠️ Technical Skills</h2>
+<h2>💻 Technical Skills</h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
@@ -33,12 +33,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-<h2>📝 Certifications</h2>
+<h2>🎓 Certifications</h2>
 
 - <b>CompTIA Security+</b> (in progress)  
 - <b>TryHackMe & Hack</b> (ongoing)
 
-<h2>🤝 Connect with Me</h2>
+<h2>🔗 Connect with Me</h2>
 
 [linkedin]: https://linkedin.com/in/jdgeisler
 
