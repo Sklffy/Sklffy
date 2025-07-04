@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
 </a>
 
+<h2>┗━━━━━━⊱ 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ⊰━━━━━━┛</h2>
 
 <a>𝕀'𝕞 𝕒 𝕕𝕣𝕚𝕧𝕖𝕟 𝕔𝕠𝕝𝕝𝕖𝕘𝕖 𝕤𝕥𝕦𝕕𝕖𝕟𝕥 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 ℂ𝕪𝕓𝕖𝕣𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪, 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕤𝕖𝕖𝕜𝕚𝕟𝕘 𝕊𝕡𝕣𝕚𝕟𝕘 𝕒𝕟𝕕 𝕊𝕦𝕞𝕞𝕖𝕣 𝟚𝟘𝟚𝟞 𝕚𝕟𝕥𝕖𝕣𝕟𝕤𝕙𝕚𝕡𝕤 𝕥𝕠 𝕘𝕣𝕠𝕨 𝕞𝕪 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 𝕚𝕞𝕡𝕒𝕔𝕥 𝕚𝕟 𝕥𝕙𝕖 𝕗𝕚𝕖𝕝𝕕.</a>
 
