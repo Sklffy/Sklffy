@@ -19,7 +19,7 @@
 <h2>🏆 Cybersecurity Competitions</h2>
 
 - <b>Participant - NCAE Cyber Games 2025</b>  
-  - [NCAE Cyber Games]([https://www.ncaecybergames.org])
+  - [NCAE Cyber Games](https://www.ncaecybergames.org/)
 
 <h2>🛠️ Technical Skills</h2>
 
