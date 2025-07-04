@@ -1,11 +1,14 @@
-<h1>Hey! I'm Jonathan 👋</h1>
+<h1>Hey I'm Jonathan 👋</h1>
 
 [<img align="left" alt="Jonathan Geisler | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="https://www.linkedin.com/in/jdgeisler/">Connect with me on LinkedIn</a>
 
 <a>I'm a driven college student studying <strong>Computer Science and Cybersecurity</strong>, currently seeking <strong>Spring and Summer 2026 internships</strong> to grow my experience and impact in the field.</a>
-<a>Through building a personal cybersecurity lab, <strong>developing scoring engines</strong> for competitions, and competing in <strong>national events</strong> like the NCAE Cyber Games and NSA Cyber Games, I’ve developed strong technical, communication, and leadership skills.</a>
+
+<a>Through building a personal cybersecurity lab, <strong>developing scoring engines</strong> for competitions, and competing in <strong>national events</strong> like the NCAE Cyber Games, I’ve developed strong technical, communication, and leadership skills.</a>
+
 <a>I'm especially passionate about roles in <strong>Cybersecurity Engineering</strong>, <strong>Threat Hunting</strong>, and <strong>Infrastructure Security</strong>—but I’m open to any opportunity in <strong>Cybersecurity</strong>, <strong>IT</strong>, or <strong>DevSecOps</strong> across the U.S.</a>
+
 
 <h2>👨‍💻 Personal Projects</h2>
 
