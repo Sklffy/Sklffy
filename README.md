@@ -1,7 +1,9 @@
 <h1>Hey I'm Jonathan 👋</h1>
 
 [<img align="left" alt="Jonathan Geisler | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="https://www.linkedin.com/in/jdgeisler/">Connect with me on LinkedIn</a>
+<a href="https://www.linkedin.com/in/jdgeisler/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="Connect with me on LinkedIn" />
+</a>
 
 <a>I'm a driven college student studying <strong>Computer Science and Cybersecurity</strong>, currently seeking <strong>Spring and Summer 2026 internships</strong> to grow my experience and impact in the field.</a>
 
