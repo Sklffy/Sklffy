@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  Through building a personal cybersecurity lab, <strong>developing scoring engines</strong> for competitions, and competing in <strong>national events</strong> like the NCAE Cyber Games, I’ve developed strong technical, communication, and leadership skills.
+  Through building a personal cybersecurity lab, <strong>developing scoring engines</strong> for competitions, and competing in <strong> events</strong> like the NCAE Cyber Games, I’ve developed strong technical, communication, and leadership skills.
 </p>
 
 <p>
