@@ -27,7 +27,7 @@
 - <b>ATLANTIS Scoreboard (C++ | TOML | Web UI)</b>  
   - [GitHub Repo](https://github.com/Sklffy/Scoring-Engine)
 
-<h2>┗━━━━━━━⊱ 🏆 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒐𝒏𝒔 ⊰━━━━━━━━┛</h2>
+<h2>┗━━━━⊱ 🏆 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒐𝒏𝒔 ⊰━━━━━┛</h2>
 
 - <b>Participant - NCAE Cyber Games 2025</b>  
   - [NCAE Cyber Games](https://www.ncaecybergames.org/)
