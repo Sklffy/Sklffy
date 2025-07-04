@@ -1,13 +1,11 @@
-<h1>Hi there, I'm Jonathan! 👋</h1>
+<h1>Hey! I'm Jonathan 👋</h1>
 
 [<img align="left" alt="Jonathan Geisler | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="https://www.linkedin.com/in/jdgeisler/">Let's connect.</a>
+<a href="https://www.linkedin.com/in/jdgeisler/">Connect with me on LinkedIn</a>
 
-<a>I'm a passionate college student pursuing **Computer Science and Cybersecurity**, seeking to grow through **Spring and Summer 2026 internships**!</a>
-
-<a>I've gained **hands-on technical, communication, and leadership experience** by building my own cybersecurity lab, **leading scoring engine development for competitions**, and participating in **national cyber competitions** like the NCAE Cyber Games and NSA Cyber Games.</a>
-
-<a>I'm especially interested in roles in **Cybersecurity Engineering**, **Threat Hunting**, or **Infrastructure Security**, but I’m open to all roles related to cybersecurity, IT, or DevSecOps based in the U.S.</a>
+<a>I'm a driven college student studying <strong>Computer Science and Cybersecurity</strong>, currently seeking <strong>Spring and Summer 2026 internships</strong> to grow my experience and impact in the field.</a>
+<a>Through building a personal cybersecurity lab, <strong>developing scoring engines</strong> for competitions, and competing in <strong>national events</strong> like the NCAE Cyber Games and NSA Cyber Games, I’ve developed strong technical, communication, and leadership skills.</a>
+<a>I'm especially passionate about roles in <strong>Cybersecurity Engineering</strong>, <strong>Threat Hunting</strong>, and <strong>Infrastructure Security</strong>—but I’m open to any opportunity in <strong>Cybersecurity</strong>, <strong>IT</strong>, or <strong>DevSecOps</strong> across the U.S.</a>
 
 <h2>👨‍💻 Personal Projects</h2>
 
