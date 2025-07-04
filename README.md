@@ -14,7 +14,7 @@
 - <b>Portfolio Website (HTML/CSS + Canvas JS)</b>  
   - [jdgeisler.com](https://jdgeisler.com)
 - <b>ATLANTIS Scoreboard (C++ | TOML | Web UI)</b>  
-  - [GitHub Repo](https://github.com/Sklffy/ATLANTIS-Scoreboard)
+  - [GitHub Repo](https://github.com/Sklffy/Scoring-Engine)
 
 <h2>🏆 Cybersecurity Competitions</h2>
 
