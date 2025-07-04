@@ -19,7 +19,7 @@
 <h2>🏆 Cybersecurity Competitions</h2>
 
 - <b>Participant - NSA Cyber Games 2025</b>  
-  - [NSA Cyber Games](https://www.nsacybergames.com/)
+  - [NCAE Cyber Games]([https://www.nsacybergames.com/])
 
 <h2>🛠️ Technical Skills</h2>
 
