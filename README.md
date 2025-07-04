@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  I'm especially passionate about roles in <strong>Cybersecurity Engineering</strong>, <strong>Threat Hunting</strong>, and <strong>Infrastructure Security</strong>but I’m open to any opportunity in <strong>Cybersecurity</strong>, <strong>IT</strong>, or <strong>DevSecOps</strong> across the U.S.
+  I'm especially passionate about roles in <strong>Cybersecurity Engineering</strong>, <strong>Threat Hunting</strong>, and <strong>Infrastructure Security</strong> but I’m open to any opportunity in <strong>Cybersecurity</strong>, <strong>IT</strong>, or <strong>DevSecOps</strong> across the U.S.
 </p>
 
 
