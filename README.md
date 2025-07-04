@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
 </a>
 
-<h2>┗━━━━━━━━━━⊱ 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ⊰━━━━━━━━━━┛</h2>
+<h2>┗━━━━━━━━━⊱ 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ⊰━━━━━━━━━━┛</h2>
 
 <p>
   I'm a driven college student studying <strong>Computer Science and Cybersecurity</strong>, currently seeking <strong>Spring and Summer 2026 internships</strong> to grow my experience and impact in the field.
@@ -20,7 +20,7 @@
 
 
 
-<h2>┗━━━━━━━⊱ 🛠️ 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ⊰━━━━━━━━┛</h2>
+<h2>┗━━━━━━⊱ 🛠️ 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ⊰━━━━━━━━┛</h2>
 
 - <b>Portfolio Website (HTML/CSS + Canvas JS)</b>  
   - [jdgeisler.com](https://jdgeisler.com)
@@ -48,7 +48,7 @@
 - <b>CompTIA Security+</b> (in progress)  
 - <b>TryHackMe & Hack</b> (ongoing)
 
-<h2>┗━━━━━━━━⊱ 🔗 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 ⊰━━━━━━┛</h2>
+<h2>┗━━━━━━━━━━⊱ 🔗 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 ⊰━━━━━━━━┛</h2>
 
 [linkedin]: https://linkedin.com/in/jdgeisler
 
