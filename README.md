@@ -1,7 +1,7 @@
 <h1>Hey I'm Jonathan 👋</h1>
 
-<a href="https://www.linkedin.com/in/jdgeisler/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="Connect with me on LinkedIn" />
+<a href="https://www.linkedin.com/in/jdgeisler/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
 </a>
 
 
