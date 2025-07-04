@@ -43,12 +43,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-<h2>┗━━━━━━━━━⊱ 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 ⊰━━━━━━━━━┛</h2>
+<h2>┗━━━━━━━━━⊱ 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 ⊰━━━━━━━┛</h2>
 
 - <b>CompTIA Security+</b> (in progress)  
 - <b>TryHackMe & Hack</b> (ongoing)
 
-<h2>┗━━━━━━━━⊱ 🔗 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 ⊰━━━━━━┛</h2>
+<h2>┗━━━━━━━━⊱ 🔗 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 ⊰━━━━━━━━┛</h2>
 
 [linkedin]: https://linkedin.com/in/jdgeisler
 
