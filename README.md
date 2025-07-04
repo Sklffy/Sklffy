@@ -10,9 +10,11 @@
 I'm a driven college student studying <strong>Computer Science and Cybersecurity</strong>, currently seeking <strong>Spring and Summer 2026 internships</strong> to grow my experience and impact in the field.
 </a>
 
+
 <a>
 Through building a personal cybersecurity lab, <strong>developing scoring engines</strong> for competitions, and competing in <strong>national events</strong> like the NCAE Cyber Games, I’ve developed strong technical, communication, and leadership skills.
 </a>
+
 
 <a>
 I'm especially passionate about roles in <strong>Cybersecurity Engineering</strong>, <strong>Threat Hunting</strong>, and <strong>Infrastructure Security</strong>—but I’m open to any opportunity in <strong>Cybersecurity</strong>, <strong>IT</strong>, or <strong>DevSecOps</strong> across the U.S.
