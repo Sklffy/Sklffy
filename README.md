@@ -46,7 +46,7 @@
 <h2>⊱ 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 ⊰</h2>
 
 - <b>CompTIA Security+</b> (in progress)  
-- <b>TryHackMe & Hack</b> (ongoing)
+- <b>TryHackMe</b> (ongoing)
 
 <h2>⊱ 🔗 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 ⊰</h2>
 
