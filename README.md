@@ -23,7 +23,7 @@
 <h2>⊱ 🛠️ 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ⊰</h2>
 
 - <b>Portfolio Website (HTML/CSS + Canvas JS)</b>  
-[![Portfolio Site](https://img.shields.io/badge/Jdgeisler.com-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://jdgeisler.com)
+[![Portfolio Site](https://img.shields.io/badge/jdgeisler.com-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://jdgeisler.com)
 - <b>ATLANTIS Scoreboard (C++ | TOML | Web UI)</b>  
 [![ATLANTIS GitHub](https://img.shields.io/badge/ATLANTIS_Scoreboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sklffy/Scoring-Engine)
 
