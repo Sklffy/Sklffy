@@ -30,7 +30,7 @@
 <h2>⊱ 🏆 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒐𝒏𝒔 ⊰</h2>
 
 - <b>Participant - NCAE Cyber Games 2025</b>  
-[![NCAE Cyber Games](https://img.shields.io/badge/NCAE-C-0056D2?style=for-the-badge&logo=govtech&logoColor=white)](https://www.ncaecybergames.org/)
+[![NCAE Cyber Games](https://img.shields.io/badge/NCAECyberGames-0056D2?style=for-the-badge&logo=govtech&logoColor=white)](https://www.ncaecybergames.org/)
 
 <h2>⊱ 💻 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒌𝒊𝒍𝒍𝒔 ⊰</h2>
 
