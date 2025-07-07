@@ -1,7 +1,7 @@
 <h1>Hey I'm Jonathan 👋</h1>
 
 <a href="https://www.linkedin.com/in/jdgeisler/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&style=for-the-badge" alt="LinkedIn Badge" />
 </a>
 
 <h2>⊱ 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ⊰</h2>
@@ -23,9 +23,9 @@
 <h2>⊱ 🛠️ 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ⊰</h2>
 
 - <b>Portfolio Website (HTML/CSS + Canvas JS)</b>  
-[![Portfolio Site](https://img.shields.io/badge/jdgeisler.com-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://jdgeisler.com)
+[![Portfolio Site](https://img.shields.io/badge/jdgeisler.com-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white&style=flat)](https://jdgeisler.com)
 - <b>ATLANTIS Scoreboard (C++ | TOML | Web UI)</b>  
-[![ATLANTIS GitHub](https://img.shields.io/badge/ATLANTIS_Scoreboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sklffy/Scoring-Engine)
+[![ATLANTIS GitHub](https://img.shields.io/badge/ATLANTIS_Scoreboard-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/Sklffy/Scoring-Engine)
 
 <h2>⊱ 🏆 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒐𝒏𝒔 ⊰</h2>
 
