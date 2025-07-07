@@ -45,8 +45,8 @@
 
 <h2>⊱ 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 ⊰</h2>
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-blue?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security) * (in progress) *
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-blue?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security) ** (in progress) **
+- [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-blue?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security) * (in progress) *
+- [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jdgeisler) ** (ongoing) **
 
 <h2>⊱ 🔗 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 ⊰</h2>
 
