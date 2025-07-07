@@ -23,14 +23,14 @@
 <h2>⊱ 🛠️ 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ⊰</h2>
 
 - <b>Portfolio Website (HTML/CSS + Canvas JS)</b>  
-  - [![Portfolio Site](https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://jdgeisler.com)
+[![Portfolio Site](https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://jdgeisler.com)
 - <b>ATLANTIS Scoreboard (C++ | TOML | Web UI)</b>  
-  - [![ATLANTIS GitHub](https://img.shields.io/badge/ATLANTIS_Scoreboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sklffy/Scoring-Engine)
+[![ATLANTIS GitHub](https://img.shields.io/badge/ATLANTIS_Scoreboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sklffy/Scoring-Engine)
 
 <h2>⊱ 🏆 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒐𝒏𝒔 ⊰</h2>
 
 - <b>Participant - NCAE Cyber Games 2025</b>  
-  - [![NCAE Cyber Games](https://img.shields.io/badge/NCAE_Cyber_Games-0056D2?style=for-the-badge&logo=govtech&logoColor=white)](https://www.ncaecybergames.org/)
+[![NCAE Cyber Games](https://img.shields.io/badge/NCAE_Cyber_Games-0056D2?style=for-the-badge&logo=govtech&logoColor=white)](https://www.ncaecybergames.org/)
 
 <h2>⊱ 💻 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒌𝒊𝒍𝒍𝒔 ⊰</h2>
 
