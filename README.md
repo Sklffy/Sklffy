@@ -46,7 +46,7 @@
 <h2>⊱ 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 ⊰</h2>
 
 - <b>CompTIA Security+</b> (in progress)  
-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jdgeisler)(ongoing)
+- [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jdgeisler"(ongoing)")
 
 <h2>⊱ 🔗 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆 ⊰</h2>
 
