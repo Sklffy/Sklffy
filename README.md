@@ -121,13 +121,23 @@
 
 
 <!-- GitHub Stats -->
-<h2 class="glitch-type">⊱ 📊 Github Stats ⊰</h2>
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sklffy&layout=donut&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Sklffy&show_icons=true&theme=tokyonight" />
-  </div>
-</p>
+<h2 class="glitch-type">⊱ 📊 GitHub Stats ⊰</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sklffy&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sklffy&show_icons=true&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sklffy/Sklffy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sklffy/Sklffy/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/Sklffy/Sklffy/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 
 
 <!-- Connect -->
