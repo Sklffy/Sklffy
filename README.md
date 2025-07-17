@@ -1,15 +1,34 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sklffy/Sklffy/main/assets/banner.png" alt="Jonathan Geisler Banner" style="width:100%; border-radius:4.5px;" />
+  <img src="https://raw.githubusercontent.com/Sklffy/Sklffy/main/assets/newbanner.png" alt="Jonathan Geisler Banner" style="width:100%; border-radius:4.5px;" />
 </p>
 
 
-<!-- Typing Animation -->
+<!-- Typing SVG with blue text and blinking cursor -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Jonathan%20Geisler;Cybersecurity%20Student;Driven%20Problem-Solver;Always%20Learning%20and%20Innovating&font=Fira%20Code&weight=700&center=true&width=500&height=30&color=38b6ff&vCenter=true&pause=10&size=22" />
   </a>
 </p>
+
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="mailto:jdgeisler@gmail.com" title="Email Me">
+    <img width="32px" src="https://cdn.simpleicons.org/gmail/ffffff" alt="Email" />
+  </a>
+  <span style="color:#38b6ff;"></span>
+  <a href="https://linkedin.com/in/jdgeisler" title="LinkedIn">
+    <img width="32px" src="assets/linked.png" alt="LinkedIn" />
+  </a>
+  <span style="color:#38b6ff;"></span>
+  <a href="https://jdgeisler.com" title="My Website">
+    <img width="32px" src="assets/website.png" alt="Website" />
+  </a>
+</p>
+
+
+
 
 
 <!-- About Me -->
