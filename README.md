@@ -62,15 +62,15 @@
 <!-- Tech Stack Section -->
   <!-- Languages -->
   <h3>🖥️ Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="Languages" />
 
   <!-- Web Development -->
   <h3>🌐 Web Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,vite" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,vite" alt="Web Development" />
 
   <!-- Frameworks & Libraries -->
   <h3>📚 Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,spring,django,flask" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,flask" alt="Frameworks and Libraries" />
 
   <!-- DevOps -->
   <h3>⚙️ DevOps</h3>
