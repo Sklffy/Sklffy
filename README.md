@@ -104,20 +104,15 @@
 
 <!-- Certs -->
 <h2 class="glitch-type">⊱ 🎓 Certifications ⊰</h2>
-<ul>
-  <li>
-    <a href="https://www.comptia.org/certifications/security" target="_blank">
-      <img src="https://img.shields.io/badge/CompTIA_Security+-blue?logo=comptia&logoColor=white" />
-      In Progress
-    </a>
-  </li>
-  <li>
-    <a href="https://tryhackme.com/p/jdgeisler" target="_blank">
-      <img src="https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white" />
-      Ongoing
-    </a>
-  </li>
-</ul>
+<div style="margin-top: 1rem;">
+  <a href="https://tryhackme.com/p/jdgeisler" target="_blank" style="text-decoration: none;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/jdgeisler.png" 
+         alt="TryHackMe Badge" 
+         style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  </a>
+</div>
+
+
 
 
 <!-- GitHub Stats -->
@@ -139,7 +134,6 @@
 </div>
 
 
-
 <!-- Connect -->
 <h2 class="glitch-type">⊱ 🔗 Connect with Me ⊰</h2>
 <p align="left">
@@ -156,85 +150,3 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
-<!--Glitched-->
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-
-@keyframes glitch {
-  0% {
-    text-shadow: 2px 0 red, -2px 0 cyan;
-  }
-  20% {
-    text-shadow: -2px 0 red, 2px 0 cyan;
-  }
-  40% {
-    text-shadow: 2px 2px red, -2px -2px cyan;
-  }
-  60% {
-    text-shadow: -2px 2px red, 2px -2px cyan;
-  }
-  80% {
-    text-shadow: 2px -2px red, -2px 2px cyan;
-  }
-  100% {
-    text-shadow: none;
-  }
-}
-
-.glitch-type {
-  font-family: 'Fira Code', monospace;
-  font-size: 2em;
-  color: #38b6ff;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 2px solid #38b6ff;
-  width: 0;
-  animation:
-    typing 3s steps(30, end) forwards,
-    blink 0.7s step-end infinite,
-    glitch 1.5s infinite;
-}
-
-.glitch-type {
-  border: none !important;
-  outline: none !important;
-  box-shadow: none !important;
-}
-
-</style>
-
-<style>
-.glitch-img {
-  animation: glitch-flicker 2s infinite;
-  filter: drop-shadow(1px 0 red) drop-shadow(-1px 0 cyan);
-}
-
-@keyframes glitch-flicker {
-  0% {
-    transform: translate(0);
-    filter: drop-shadow(1px 0 red) drop-shadow(-1px 0 cyan);
-  }
-  20% {
-    transform: translate(-1px, 1px);
-  }
-  40% {
-    transform: translate(1px, -1px);
-  }
-  60% {
-    transform: translate(-1px, 0);
-  }
-  80% {
-    transform: translate(1px, 1px);
-    filter: drop-shadow(-2px 0 red) drop-shadow(2px 0 cyan);
-  }
-  100% {
-    transform: translate(0);
-    filter: drop-shadow(1px 0 red) drop-shadow(-1px 0 cyan);
-  }
-}
-</style>
