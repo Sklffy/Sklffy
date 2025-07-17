@@ -59,48 +59,26 @@
 <!-- Skills -->
 <h2 class="glitch-type">⊱ 💻 Technical Skills ⊰</h2>
 
-<!-- Programming Languages -->
-<h3>👨‍💻 Programming and Markup Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" />
-</p>
+<!-- Tech Stack Section -->
+  <!-- Languages -->
+  <h3>🖥️ Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Languages" />
 
-<!-- Frameworks and Libraries -->
-<h3>🧰 Frameworks and Libraries</h3>
-<p>
-  <img src="https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-404d59?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Discord.py-0d1620?logo=python&logoColor=white" />
-</p>
+  <!-- Web Development -->
+  <h3>🌐 Web Development</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,vite" alt="Web Development" />
 
-<!-- Databases and Cloud -->
-<h3>🗄️ Databases and Cloud Hosting</h3>
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-00f?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub%20Pages-327FC7?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" />
-</p>
+  <!-- Frameworks & Libraries -->
+  <h3>📚 Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,spring,django,flask" alt="Frameworks and Libraries" />
 
-<!-- Tools -->
-<h3>💻 Software and Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub%20Desktop-8034A9?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white" />
-</p>
+  <!-- DevOps -->
+  <h3>⚙️ DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="DevOps" />
+
+  <!-- Tools & IDEs -->
+ <h3>🛠️ Tools & IDEs</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,mint" alt="Tools and IDEs" />
 
 <!-- Certs -->
 <h2 class="glitch-type">⊱ 🎓 Certifications ⊰</h2>
@@ -111,8 +89,6 @@
          style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
   </a>
 </div>
-
-
 
 
 <!-- GitHub Stats -->
