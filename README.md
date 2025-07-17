@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<!-- Visitor Count -->
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Sklffy/count.svg" />
-</p>
-
 <!-- About Me -->
 <h2>⊱ 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ⊰</h2>
 <p>
@@ -89,9 +83,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sklffy&show_icons=true&theme=midnight-purple" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sklffy&theme=dark&fire=38b6ff" />
 </p>
 
 <!-- Connect -->
