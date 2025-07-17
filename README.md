@@ -150,3 +150,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+</p>
