@@ -7,9 +7,9 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Jonathan%20Geisler;Cybersecurity%20Engineer%20in%20Training;Driven%20Problem-Solver%20and%20Builder;Always%20Learning%20and%20Innovating&font=Fira%20Code&center=true&width=500&height=30&color=38b6ff&vCenter=true&pause=10&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Jonathan%20Geisler;Cybersecurity%20Student;Driven%20Problem-Solver;Always%20Learning%20and%20Innovating&font=Fira%20Code&center=true&width=500&height=30&color=38b6ff&vCenter=true&pause=10&size=22" />
   </a>
-</p>
+</p>s
 
 <!-- About Me -->
 <h2>⊱ 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ⊰</h2>
