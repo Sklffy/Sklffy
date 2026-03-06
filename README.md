@@ -81,29 +81,21 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,mint" alt="Tools and IDEs" />
 
 <!-- Certifications -->
-<h2 class="glitch-type">⊱ 🎓 Certifications ⊰</h2>
+<h2>🎓 Certifications</h2>
 
-<div style="margin-top: 1rem; text-align:center;">
+<p align="center">
 
-  <!-- TryHackMe Badge -->
-  <a href="https://tryhackme.com/p/jdgeisler" target="_blank" style="text-decoration:none;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/jdgeisler.png"
-         alt="TryHackMe Badge"
-         style="max-width:100%; height:auto; margin-bottom:20px;">
-  </a>
+<a href="https://tryhackme.com/p/jdgeisler" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/jdgeisler.png" width="420">
+</a>
 
-  <!-- Credly Badge -->
-  <div
-    data-iframe-width="150"
-    data-iframe-height="270"
-    data-share-badge-id="37966575-74ce-4c86-abc5-a63757cdcd73"
-    data-share-badge-host="https://www.credly.com">
-  </div>
+<br><br>
 
-</div>
+<a href="https://www.credly.com/badges/37966575-74ce-4c86-abc5-a63757cdcd73/public_url" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/49f0f6a2-cc71-4e10-bc4c-bd8c1cce0b55/image.png" width="160">
+</a>
 
-<script async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
-
+</p>
 
 <!-- GitHub Stats -->
 <h2 class="glitch-type">⊱ 📊 GitHub Stats ⊰</h2>
