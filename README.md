@@ -46,14 +46,20 @@
 
 <!-- Projects -->
 <h2 class="glitch-type">⊱ 🛠️ Personal Projects ⊰</h2>
+
+<div align="center">
+
 <!-- Portfolio Website -->
 <a href="https://jdgeisler.com" target="_blank">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Sklffy&repo=jonathan-portfolio&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="jonathan-portfolio">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Sklffy&repo=jonathan-portfolio&theme=react&bg_color=1F222E&title_color=8A2BE2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Jonathan Portfolio">
 </a>
-  <!-- ATLANTIS Scoreboard -->
+
+<!-- ATLANTIS Scoreboard -->
 <a href="https://github.com/Sklffy/Scoring-Engine" target="_blank">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Sklffy&repo=Scoring-Engine&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ATLANTIS Scoreboard">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Sklffy&repo=Scoring-Engine&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ATLANTIS Scoreboard">
 </a>
+
+</div>
 
 
 <!-- Skills -->
