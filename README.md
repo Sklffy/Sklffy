@@ -83,17 +83,9 @@
 ## 🎓 Certifications
 
 <p align="center">
-
-<a href="https://tryhackme.com/p/jdgeisler">
-<img src="https://tryhackme-badges.s3.amazonaws.com/jdgeisler.png" width="420">
-</a>
-
-<br><br>
-
-<img src="assets/comptia-security-ce-certification.png" width="180">
-
-</p>
-
+  <a href="https://www.credly.com/badges/37966575-74ce-4c86-abc5-a63757cdcd73/public_url">
+    <img src="assets/comptia-security-ce-certification.png" width="180">
+  </a>
 </p>
 <!-- GitHub Stats -->
 <h2 class="glitch-type">⊱ 📊 GitHub Stats ⊰</h2>
