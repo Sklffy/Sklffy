@@ -90,13 +90,6 @@
 <!-- GitHub Stats -->
 <h2 class="glitch-type">⊱ 📊 GitHub Stats ⊰</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sklffy&layout=donut&theme=tokyonight" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sklffy&show_icons=true&theme=tokyonight" height="180em" />
-
-</div>
 
 <br/>
 
