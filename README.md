@@ -90,9 +90,9 @@
 
 <br><br>
 
-<a href="https://www.credly.com/badges/37966575-74ce-4c86-abc5-a63757cdcd73/public_url">
-<img src="https://images.credly.com/images/6a254dad-77f7-4d44-8d7c-5cb9184160a9/blob.png" width="160">
-</a>
+<img src="assets/comptia-security-ce-certification.png" width="180">
+
+</p>
 
 </p>
 <!-- GitHub Stats -->
