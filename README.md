@@ -80,23 +80,21 @@
  <h3>🛠️ Tools & IDEs</h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,mint" alt="Tools and IDEs" />
 
-<!-- Certifications -->
-<h2>🎓 Certifications</h2>
+## 🎓 Certifications
 
 <p align="center">
 
-<a href="https://tryhackme.com/p/jdgeisler" target="_blank">
+<a href="https://tryhackme.com/p/jdgeisler">
 <img src="https://tryhackme-badges.s3.amazonaws.com/jdgeisler.png" width="420">
 </a>
 
 <br><br>
 
-<a href="https://www.credly.com/badges/37966575-74ce-4c86-abc5-a63757cdcd73/public_url" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/49f0f6a2-cc71-4e10-bc4c-bd8c1cce0b55/image.png" width="160">
+<a href="https://www.credly.com/badges/37966575-74ce-4c86-abc5-a63757cdcd73/public_url">
+<img src="https://images.credly.com/images/6a254dad-77f7-4d44-8d7c-5cb9184160a9/blob.png" width="160">
 </a>
 
 </p>
-
 <!-- GitHub Stats -->
 <h2 class="glitch-type">⊱ 📊 GitHub Stats ⊰</h2>
 
