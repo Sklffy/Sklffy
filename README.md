@@ -33,7 +33,7 @@
 
 
 <!-- About Me -->
-<h2 class="glitch-type">⊱ About Me ⊰</h2>
+<h2 class="glitch-type"> About Me </h2>
 <p>
   I'm a driven college student studying <strong>Computer Science and Cybersecurity</strong>, currently seeking <strong>Spring and Summer 2026 internships</strong> to grow my experience and impact in the field.
 </p>
@@ -47,7 +47,7 @@
 
 
 <!-- Skills -->
-<h2 class="glitch-type">⊱ Technical Skills ⊰</h2>
+<h2 class="glitch-type"> Technical Skills </h2>
 
 <!-- Tech Stack Section -->
   <!-- Languages -->
@@ -78,7 +78,7 @@
   </a>
 </p>
 <!-- GitHub Stats -->
-<h2 class="glitch-type">⊱ GitHub Stats ⊰</h2>
+<h2 class="glitch-type"> GitHub Stats </h2>
 
 
 <br/>
@@ -93,7 +93,7 @@
 
 
 <!-- Connect -->
-<h2 class="glitch-type">⊱ Connect with Me ⊰</h2>
+<h2 class="glitch-type"> Connect with Me </h2>
 <p align="left">
   <a href="mailto:jdgeisler@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" height="30" width="40" />
