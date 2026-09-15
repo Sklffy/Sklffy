@@ -72,6 +72,9 @@
   <a href="https://www.credly.com/badges/37966575-74ce-4c86-abc5-a63757cdcd73/public_url">
     <img src="assets/comptia-security-ce-certification.png" width="180">
   </a>
+    <a href="https://www.credly.com/badges/7b8a5d1c-3b02-4b27-bd2d-9f84915e14d6/public_url">
+    <img src="assets/cloudprac.png" width="180">
+  </a>
 </p>
 <!-- GitHub Stats -->
 <h2 class="glitch-type"> GitHub Stats </h2>
