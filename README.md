@@ -41,7 +41,7 @@
   Through building a personal cybersecurity lab, <strong>developing scoring engines</strong> for competitions, and competing in <strong>NCAE Cyber Games</strong>, I’ve developed strong technical, communication, and leadership skills.
 </p>
 <p>
-  I'm especially passionate about roles in <strong>Cybersecurity Engineering</strong>, <strong>Threat Hunting</strong>, and <strong>Infrastructure Security</strong>, but I’m open to opportunities across <strong>Cybersecurity</strong>, <strong>IT</strong>, or <strong>DevSecOps</strong> nationwide.
+  I'm especially passionate about roles in <strong>Cybersecurity Engineering</strong>, <strong>Threat Hunting</strong>, and <strong>Infrastructure Security</strong>, but I’m open to opportunities across <strong>Cybersecurity</strong>, <strong>IT</strong> nationwide.
 </p>
 
 
@@ -61,10 +61,6 @@
   <!-- Frameworks & Libraries -->
   <h3>📚 Frameworks & Libraries</h3>
   <img src="https://skillicons.dev/icons?i=react,flask" alt="Frameworks and Libraries" />
-
-  <!-- DevOps -->
-  <h3>⚙️ DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="DevOps" />
 
   <!-- Tools & IDEs -->
  <h3>🛠️ Tools & IDEs</h3>
