@@ -51,19 +51,19 @@
 
 <!-- Tech Stack Section -->
   <!-- Languages -->
-  <h3>🖥️ Languages</h3>
+  <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="Languages" />
 
   <!-- Web Development -->
-  <h3>🌐 Web Development</h3>
+  <h3>Web Development</h3>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,vite" alt="Web Development" />
 
   <!-- Frameworks & Libraries -->
-  <h3>📚 Frameworks & Libraries</h3>
+  <h3>Frameworks & Libraries</h3>
   <img src="https://skillicons.dev/icons?i=react,flask" alt="Frameworks and Libraries" />
 
   <!-- Tools & IDEs -->
- <h3>🛠️ Tools & IDEs</h3>
+ <h3>Tools & IDEs</h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,mint" alt="Tools and IDEs" />
 
 ## Certifications
