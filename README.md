@@ -47,24 +47,26 @@
 
 
 <!-- Skills -->
-<h2 class="glitch-type"> Technical Skills </h2>
+<h2 class="glitch-type">Technical Skills</h2>
 
-<!-- Tech Stack Section -->
-  <!-- Languages -->
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="Languages" />
-
-  <!-- Web Development -->
-  <h3>Web Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,vite" alt="Web Development" />
-
-  <!-- Frameworks & Libraries -->
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,flask" alt="Frameworks and Libraries" />
-
-  <!-- Tools & IDEs -->
- <h3>Tools & IDEs</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,mint" alt="Tools and IDEs" />
+<table align="center">
+  <tr>
+    <td align="right"><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Web Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Web Development" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Frameworks &amp; Libraries</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Frameworks and Libraries" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Tools &amp; IDEs</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,git,github,windows,mint" alt="Tools and IDEs" /></td>
+  </tr>
+</table>
 
 ## Certifications
 
